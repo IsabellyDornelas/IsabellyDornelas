@@ -12,6 +12,14 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinagodoy1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=React)
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=Spring)
+![MySQÇ](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySql)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
