@@ -1,6 +1,7 @@
 ## Oiii! Eu sou a Isabelly Dornelas 💕
 
-- 🎮 Cursando Analise e Desenvolvimento de Sitemas- UMC
+- 🎮 Formada em Analise e Desenvolvimento de Sitemas- UMC
+- 💼 Trabalhando na ZOOM EDUCATION FOR LIFE
 - 🔭 Sonhar, programar, realizar.
 - 🌱 Estudando Java...
 - 😎 Jogos online são meu hobby!
