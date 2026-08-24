@@ -6,12 +6,12 @@
 - 😎 Jogos online são meu hobby!
 - 😄 Pronomes: Ela/Dela.
 
-  <div align="center">
-  <a href="https://github.com/Sabrinagodoy1">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=IsabellyDornelas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinagodoy1&layout=compact&langs_count=7&theme=dracula"/>
+  <div>
+  <a href="https://beacons.ai/isabellydornelas">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellydornelas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellydornelas&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
 </div>
-<div style="display: inline_block"><br>
   
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
